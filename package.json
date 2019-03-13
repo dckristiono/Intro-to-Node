@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "1.0.0",
+  "description": "hello world!",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dckristiono/Intro-to-Node.git"
+  },
+  "author": "dckristiono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dckristiono/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/dckristiono/Intro-to-Node#readme"
+}
